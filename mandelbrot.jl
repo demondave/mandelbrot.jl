@@ -1,5 +1,3 @@
-#using Plots
-
 function mandelbrot(a::ComplexF64)
     z = 0
     for i=1:50

@@ -2,11 +2,11 @@
 
 Simple multi-threaded script to calculate the mandelbrot set.
 
-To launch with a specific number of threads use: `julia --threads x mandelbrot.jl`
+To launch with a specific number of threads, use: `julia --threads x mandelbrot.jl`
 
 ## Changing the resolution
 
-To change the resolution change the `mandelbrotSize` variable.
+To change the resolution, change the `mandelbrotSize` variable.
 
 ```
 VALUE     SIZE                 NUMBER OF POINTS
